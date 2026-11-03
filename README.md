@@ -71,10 +71,15 @@ Como Utilizar
 Após iniciar o programa, o usuário terá acesso a um menu interativo com cinco opções:
 
 Opção	Funcionalidade
+
 1	Cadastrar Ativo
+
 2	Listar Ativos
+
 3	Valor Total da Carteira
+
 4	Rentabilidade Geral
+
 5	Sair
 
 Basta selecionar a opção desejada e seguir as instruções apresentadas pelo sistema.
