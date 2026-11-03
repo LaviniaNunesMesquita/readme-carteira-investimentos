@@ -1,5 +1,5 @@
 # readme-carteira-investimentos
-Carteira de Investimentos
+## Carteira de Investimentos
 
 Descrição do Projeto
 
@@ -7,11 +7,11 @@ O projeto Carteira de Investimentos consiste em um sistema desenvolvido em lingu
 
 O sistema funciona por meio de um menu interativo no terminal, oferecendo funcionalidades simples para facilitar o controle dos investimentos cadastrados.
 
-Objetivo
+# Objetivo
 
 O objetivo do projeto é desenvolver uma aplicação que permita gerenciar uma carteira de investimentos, proporcionando ao usuário uma maneira prática de registrar ativos financeiros, consultar seus valores e acompanhar sua valorização ou desvalorização.
 
-Funcionalidades
+# Funcionalidades
 1. Cadastrar Ativo
 
 Permite cadastrar um novo ativo financeiro. Ao selecionar a opção 1 no menu, o sistema solicita as seguintes informações:
@@ -78,7 +78,7 @@ Opção	Funcionalidade
 
 Basta selecionar a opção desejada e seguir as instruções apresentadas pelo sistema.
 
-Autores
+# Autores
 
 Desenvolvedores: [Livia Freixo]
 Desenvolvedores: [Insira aqu]
