@@ -88,7 +88,7 @@ Basta selecionar a opção desejada e seguir as instruções apresentadas pelo s
 
 Desenvolvedores: [Livia Freixo]
 
-Desenvolvedores: [Gustavo]
+Desenvolvedores: [Gustavo de São Justo Bermudes]
 
 Desenvolvedores: [Mariana Carneiro Silva]
 
