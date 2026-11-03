@@ -1,5 +1,6 @@
 # readme-carteira-investimentos
-Carteira de Investimentos
+##Carteira de Investimentos
+
 Descrição do Projeto
 
 O projeto Carteira de Investimentos consiste em um sistema desenvolvido em linguagem C que permite ao usuário cadastrar e gerenciar ativos financeiros, acompanhar o valor total de sua carteira e consultar a rentabilidade dos investimentos.
