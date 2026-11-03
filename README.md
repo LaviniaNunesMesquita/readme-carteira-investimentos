@@ -47,10 +47,12 @@ Caso não existam ativos cadastrados, o sistema informa ao usuário que é neces
 
 Encerra a execução do programa, finalizando o sistema.
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 Linguagem de programação: C
+
 Ambiente de desenvolvimento (IDE): Dev-C++ 5.11
-Como Executar o Projeto
+
+# Como Executar o Projeto
 
 Para executar o sistema, siga as instruções abaixo:
 
