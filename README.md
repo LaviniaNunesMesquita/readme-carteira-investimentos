@@ -81,8 +81,13 @@ Basta selecionar a opção desejada e seguir as instruções apresentadas pelo s
 # Autores
 
 Desenvolvedores: [Livia Freixo]
+
 Desenvolvedores: [Insira aqu]
+
 Desenvolvedores: [Mariana Carneiro da Silva]
+
 Desenvolvedores: [Lavínia Nunes Mesquita]
+
 Desenvolvedores: [Mayara Marinho de Souza]
+
 Desenvolvedores: [Rayane Faustino]
