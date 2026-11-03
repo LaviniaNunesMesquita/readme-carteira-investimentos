@@ -90,10 +90,10 @@ Desenvolvedores: [Livia Freixo]
 
 Desenvolvedores: [Gustavo]
 
-Desenvolvedores: [Mariana Carneiro da Silva]
+Desenvolvedores: [Mariana Carneiro Silva]
 
 Desenvolvedores: [Lavínia Nunes Mesquita]
 
 Desenvolvedores: [Mayara Marinho de Souza]
 
-Desenvolvedores: [Rayane Faustino]
+Desenvolvedores: [Rayane Andrade Faustino]
