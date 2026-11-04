@@ -86,13 +86,13 @@ Basta selecionar a opção desejada e seguir as instruções apresentadas pelo s
 
 # Autores
 
-Desenvolvedores: [Livia Freixo]
-
 Desenvolvedores: [Gustavo de São Justo Bermudes]
 
-Desenvolvedores: [Mariana Carneiro Silva]
-
 Desenvolvedores: [Lavínia Nunes Mesquita]
+
+Desenvolvedores: [Livia Freixo]
+
+Desenvolvedores: [Mariana Carneiro Silva]
 
 Desenvolvedores: [Mayara Marinho de Souza]
 
