@@ -33,7 +33,7 @@ Caso não exista nenhum ativo registrado, o sistema informa ao usuário que é n
 Calcula e exibe o valor total da carteira de investimentos, considerando a quantidade e o preço atual de cada ativo cadastrado.
 
 Caso não existam ativos cadastrados, o sistema apresenta uma mensagem informativa.
-
+ 
 4. Consultar Rentabilidade Geral
 
 Calcula e apresenta a rentabilidade dos investimentos cadastrados, considerando a diferença entre o preço atual e o preço de compra dos ativos.
