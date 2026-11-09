@@ -55,8 +55,11 @@ Ambiente de desenvolvimento (IDE): Dev-C++ 5.11
 # Requisitos mínimos para execução
  
  ° Computador ou notebook
+ 
  ° Ambiente de desenvolvimento (vscode,dev c++, etc)
+ 
  ° Suporte à execução de arquivos executáveis (.exe)
+ 
  ° Conhecimentos básicos de utilização do computador e do terminal
 
 
