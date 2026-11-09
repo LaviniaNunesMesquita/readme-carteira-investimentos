@@ -1,4 +1,3 @@
-# readme-carteira-investimentos
 ## Carteira de Investimentos
 
 # Descrição do projeto
